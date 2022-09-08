@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Disable-FLAG_KEEP_SCREEN_ON</string>
-    <string name="xposed_description">Disables FLAG_KEEP_SCREEN_ON.</string>
+    <string name="xposed_description">Disables FLAG_KEEP_SCREEN_ON. 阻止应用常亮，按照系统屏幕超时时间息屏</string>
     <string-array name="scope">
         <!-- <item>android</item> -->
     </string-array>
